@@ -1,0 +1,28 @@
+article{
+    margin: auto;
+    text-align: center;
+    background: #dbfffe;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 5px 1px #dbfffe;
+    section{
+        article{
+            text-align: start;
+            ul{
+                list-style: none;
+                padding: 0;
+            }
+        }
+    }
+    footer{
+        button{
+            padding: 15px;
+            border-radius: 20px;
+            background: #fff;
+            border: 1px solid #e9e9e9ed;
+        }:hover{
+            background: #ffffffa2;
+            border: 1px solid #e9e9e9ed;
+        }
+    }
+}
