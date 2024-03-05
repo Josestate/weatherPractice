@@ -1,0 +1,7 @@
+#root{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    background-image: url(../src/assets/marc-zimmer-1dNujhlCTYQ-unsplash.jpg);
+    background-size: cover;
+}
